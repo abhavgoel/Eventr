@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EventrApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EventrPlatformApplication.class, args);
+		SpringApplication.run(EventrApplication.class, args);
 	}
 
 }
